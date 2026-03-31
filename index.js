@@ -1,0 +1,1 @@
+console("welcome to the git course");
